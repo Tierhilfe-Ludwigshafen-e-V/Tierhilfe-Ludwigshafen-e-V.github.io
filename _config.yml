@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-locale: "de"
+locale: "it"
 title: "Tierhilfe-Ludwigshafen e.V."
 subtitle: Ausgezeichnet mit dem Tierschutzpreis 1995 des Landes Rheinland-Pfalz
 email: info@tierhilfe-ludwigshafen.de
@@ -28,7 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Gemeinnützigkeit und Förderungswürdigkeit zuerkannt wurde unter VR 1586 Vereinsregister Ludwigshafen am Rhein.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://tierhilfe-ludwigshafen.de" # the base hostname & protocol for your site, e.g. http://example.com
-
+repository: "Tierhilfe-Ludwigshafen-e-V/Tierhilfe-Ludwigshafen-e-V.github.io"
 
 instagram_username: tierhilfe.ludwigshafen
 # twitter_username: jekyllrb
@@ -106,10 +106,17 @@ defaults:
     values:
       layout: single
       author_profile: false
+      sidebar:
+        - title: "Alter"
+          text: "unbekannt"
+        - title: "Geschlecht"
+          text: "unbekannt"
+        - title: "Haltung"
+          text: "kein Freigang"
 
 category_archive:
   type: liquid
-  path: /categories/
+  path: /vermittelung/
 tag_archive:
   type: liquid
   path: /tags/
@@ -119,3 +126,4 @@ collections_dir: my_collections
 collections:
   cats:
     output: true
+    permalink: /:collection/:title/

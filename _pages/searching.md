@@ -5,6 +5,8 @@ permalink: /vermittelung/
 collection: cats
 entries_layout: grid
 classes: wide
+sort_by: date
+sort_order: reverse
 ---
 
 Die Informationen über die abgebildeten Katzen befinden sich immer unter dem jeweiligen Bild.

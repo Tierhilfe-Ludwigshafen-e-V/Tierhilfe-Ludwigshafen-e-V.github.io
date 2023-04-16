@@ -6,8 +6,9 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "#45bf9f"
   overlay_image: /assets/images/tierhilfe-logo.jpg
+  overlay_filter: 0.5
 excerpt: >
   Die Tierhilfe hilft Katzen in Not.
 feature_row:
