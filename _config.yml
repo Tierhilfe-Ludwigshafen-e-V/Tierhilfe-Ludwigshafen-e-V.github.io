@@ -18,21 +18,35 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Tierhilfe-Ludwigshafen e.V.
-email: info@tierhilfe-Ludwigshafen.de
+locale: "de"
+title: "Tierhilfe-Ludwigshafen e.V."
+subtitle: Ausgezeichnet mit dem Tierschutzpreis 1995 des Landes Rheinland-Pfalz
+email: info@tierhilfe-ludwigshafen.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Die Tierhilfe-Ludwigshafen e.V. kümmert sich seit 1980 um Katzen in Not.
+  Es handelt sich um einen eingetragenen Verein, dem die Anerkennung auf
+  Gemeinnützigkeit und Förderungswürdigkeit zuerkannt wurde unter VR 1586 Vereinsregister Ludwigshafen am Rhein.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://tierhilfe-ludwigshafen.de" # the base hostname & protocol for your site, e.g. http://example.com
+
+
 instagram_username: tierhilfe.ludwigshafen
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
+minimal_mistakes_skin: mint # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+search: true
+
+
 # Build settings
-remote-theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+#theme: minima
+remote_theme: "mmistakes/minimal-mistakes"
+timezone: "Europe/Berlin"
+locale: de
+
+include:
+  - _pages
 
 plugins:
   - jekyll-feed
@@ -57,3 +71,51 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+footer:
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/tierhilfe.ludwigshafen"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: ""
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: true
+      share: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+  # _cats
+  - scope:
+      path: ""
+      type: cats
+    values:
+      layout: single
+      author_profile: false
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+collections_dir: my_collections
+
+collections:
+  cats:
+    output: true

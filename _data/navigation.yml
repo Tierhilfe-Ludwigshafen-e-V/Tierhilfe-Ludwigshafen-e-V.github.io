@@ -1,0 +1,16 @@
+main:
+  - title: "Kontakt"
+    url: /kontakt/
+  - title: "Aktuelles"
+    url: /
+  - title: "Vermittelung"
+    url: /vermittelung/
+  - title: "Zuhause gefunden"
+    url: /
+  - title: "Unterstützung"
+    url: /unterstuetzung/  
+  - title: "Wir über uns"
+    url: /
+  - title: "Interessante Links"
+    url: /
+
