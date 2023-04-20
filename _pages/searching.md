@@ -7,6 +7,7 @@ entries_layout: grid
 classes: wide
 sort_by: date
 sort_order: reverse
+last_modified_at: 2023-04-19
 ---
 
 Die Informationen über die abgebildeten Katzen befinden sich immer unter dem jeweiligen Bild.

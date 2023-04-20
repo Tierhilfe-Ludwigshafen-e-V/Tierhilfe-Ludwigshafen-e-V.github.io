@@ -10,6 +10,8 @@ main:
   - title: "Unterstützung"
     url: /unterstuetzung/  
   - title: "Wir über uns"
-    url: /
+    url: /ueber_uns/
   - title: "Interessante Links"
-    url: /
+    url: /links/
+  - title: "Impressum"
+    url: /impressum/

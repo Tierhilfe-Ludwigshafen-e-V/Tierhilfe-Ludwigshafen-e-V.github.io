@@ -33,9 +33,6 @@ feature_row:
 {% include feature_row %}
 
  
-
- 
-
 # Herzlich willkommen bei der Tierhilfe Ludwigshafen e.V.
 
 Wir bitten weiterhin für Besuche um vorherige Terminvereinbarung.  
@@ -66,7 +63,10 @@ Telefonzeiten Mo - Fr von 18.00 - 19.00 Uhr
 - BIC: LUHSDE6AXXX
 
 ### PayPal
-Eine Spende via PayPal ist ebenfalls möglich.
+Eine Spende via PayPal ist ebenfalls möglich hier möglich:
+
+[![PayPal](/assets/images/paypal.jpeg)](https://paypal.me/TierhilfeLU?locale.x=de_DE) 
+
  
 ### Amazon
-Gerne können Sie uns über unseren Amazon-Wunschzettel eine Sachspende zukommen lassen.
+Gerne können Sie uns über unseren [Amazon-Wunschzettel](http://www.amazon.de/gp/registry/wishlist/3TF00SWYYMYR6) eine Sachspende zukommen lassen.
