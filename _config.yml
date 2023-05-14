@@ -116,7 +116,7 @@ defaults:
 
 category_archive:
   type: liquid
-  path: /vermittelung/
+  path: /Vermittlung/
 tag_archive:
   type: liquid
   path: /tags/

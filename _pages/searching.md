@@ -1,7 +1,7 @@
 ---
-title: Vermittelung
+title: Vermittlung
 layout: collection
-permalink: /vermittelung/
+permalink: /Vermittlung/
 collection: cats
 entries_layout: grid
 classes: wide
@@ -12,7 +12,7 @@ last_modified_at: 2023-04-19
 
 Die Informationen über die abgebildeten Katzen befinden sich immer unter dem jeweiligen Bild.
 
-## Einige Rahmenbedingungen für die Vermittelung
+## Einige Rahmenbedingungen für die Vermittlung
 - Wenn Sie einen Balkon haben, dann sollte dieser katzensicher vernetzt sein.
 - Wir vermitteln Kitten und Jungkatzen generell nicht in Einzelhaltung.
 - Nicht alle unserer Katzen sind für Freigang geeignet. Bitte beachten Sie, dass wir dies individuell, je nach Katze entscheiden.
@@ -25,4 +25,4 @@ Bei unseren Neuzugängen kann sich die Beschreibung noch ändern. Da sie erst fr
 
 Etwaige fehlende Bilder werden demnächst ergänzt.      
 
-## Katzen zur Vermittelung
+## Katzen zur Vermittlung

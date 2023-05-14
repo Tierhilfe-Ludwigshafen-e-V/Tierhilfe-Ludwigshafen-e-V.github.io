@@ -6,9 +6,9 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#45bf9f"
-  overlay_image: /assets/images/tierhilfe-logo.jpg
-  overlay_filter: 0.5
+  overlay_color: "#B4DCDF"
+  overlay_image: /assets/images/tierhilfe-background.png
+  #overlay_image: /assets/images/tierhilfe-logo.jpg
 excerpt: >
   Die Tierhilfe hilft Katzen in Not.
 feature_row:
@@ -19,7 +19,7 @@ feature_row:
     btn_label: "Helfen"
   - title: "Katzen zur Vermittlung"
     excerpt: "Falls Sie Interesse an unseren Katzen haben, dann kommen Sie uns bitte besuchen. Die Vermittlung ist während der [Öffnungszeiten](/kontakt/) und nach Vereinbarung möglich."
-    url: "/vermittelung/"
+    url: "/Vermittlung/"
     btn_class: "btn--primary"
     btn_label: "Adoptieren"
   - title: "Tierhilfe Unterstützen"

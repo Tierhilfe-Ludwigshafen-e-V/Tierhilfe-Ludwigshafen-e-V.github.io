@@ -23,7 +23,7 @@ Im Jahr 1995 wurden wir mit dem Tierschutzpreis des Landes Rheinland-Pfalz ausge
 Wir nehmen Abgabe- und Fundtiere auf und lassen sie tierärztlich versorgen. Es handelt sich hauptsächlich um Katzen. Für Kaninchen, Meerschweinchen und Hunde besteht leider nur eine beschränkte Aufnahmekapazität auf Pflegeplätzen.
 
  
-### Vermittelung
+### Vermittlung
 Wir vermitteln Abgabetiere, entweder direkt vom alten zum neuen Besitzer oder versorgen sie bis zur Vermittlung auf privaten Pflegestellen oder in der Geschäftsstelle. Sowohl Fundtiere als auch Abgabetiere werden nur (geimpft, getestet, entwurmt, entfloht und je nach Alter kastriert) mit Schutzvertrag vermittelt. Es erfolgt mindestens eine Nachkontrolle.
 
 ### Versorgung

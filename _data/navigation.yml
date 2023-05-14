@@ -3,8 +3,8 @@ main:
     url: /kontakt/
   - title: "Aktuelles"
     url: /year-archive/
-  - title: "Vermittelung"
-    url: /vermittelung/
+  - title: "Vermittlung"
+    url: /Vermittlung/
   # - title: "Zuhause gefunden"
   #   url: /
   - title: "Unterstützung"
